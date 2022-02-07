@@ -1,0 +1,4 @@
+vectorbt
+pandas
+numpy
+matplotlib
