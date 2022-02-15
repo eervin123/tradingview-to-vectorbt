@@ -8,9 +8,13 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+### Large Files ###
+# All of the pickle files with minutes in the name
+*m.pickle 
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
